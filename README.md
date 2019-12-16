@@ -4,8 +4,11 @@ The Multilingual Chinese-English lexical sample task at SemEval-2007 provides a 
 This package contains: 
 
 1 trail corpus (training and test) in XML format, 
+
 2 the dtd file for this XML format,
+
 3 the specification for POS tags
+
 4 the evaluation software 
 
 If you are interested in this data, please refer to the following paper:
